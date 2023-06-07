@@ -3,7 +3,7 @@
 class Line
 {
 public:
-	Line() {}
+	Line() {}// adding comment for new commit to github test
 	Line(Vector2 pos1, Vector2 pos2, int length) { _pos1 = pos1, _pos2 = pos2, _length = length; }
 	~Line() {}
 	void setPos1(Vector2 p1) { _pos1 = p1; }
