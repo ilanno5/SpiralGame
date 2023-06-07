@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Dev\CppSeries\SpiralGame\SpiralGame\main.cpp(82,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Dev\CppSeries\SpiralGame\SpiralGame\main.cpp(157,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Dev\CppSeries\SpiralGame\SpiralGame\main.cpp(173,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Dev\CppSeries\SpiralGame\SpiralGame\main.cpp(204,89): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Dev\CppSeries\SpiralGame\SpiralGame\main.cpp(204,89): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Dev\CppSeries\SpiralGame\SpiralGame\main.cpp(204,111): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Dev\CppSeries\SpiralGame\SpiralGame\main.cpp(204,111): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Dev\CppSeries\SpiralGame\SpiralGame\main.cpp(252,26): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Dev\CppSeries\SpiralGame\SpiralGame\main.cpp(256,26): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Dev\CppSeries\SpiralGame\SpiralGame\main.cpp(260,26): warning C4305: '-=': truncation from 'double' to 'float'
+  SpiralGame.vcxproj -> C:\Dev\CppSeries\SpiralGame\x64\Debug\SpiralGame.exe

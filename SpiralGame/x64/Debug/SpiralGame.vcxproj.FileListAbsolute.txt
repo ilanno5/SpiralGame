@@ -1,0 +1,1 @@
+C:\Dev\CppSeries\SpiralGame\SpiralGame\x64\Debug\SpiralGame.vcxproj.CopyComplete
